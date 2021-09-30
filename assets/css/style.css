@@ -73,7 +73,7 @@ body {
     display: none;
 }
 
-/* Navbar Tablett */
+/* Navbar Tablet */
 
 @media screen and (max-width: 768px) {
     .navbar__link > a {
@@ -240,7 +240,7 @@ body {
 }
 
 
-/* Main Tablett */
+/* Main Tablet */
 
 @media screen and (max-width: 769px) {
 
@@ -361,7 +361,7 @@ body {
     width: 70%;
 }
 
-/* Content Tablett */
+/* Content Tablet */
 
 @media screen and (max-width: 769px) {
     .card {
